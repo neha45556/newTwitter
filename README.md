@@ -1,3 +1,5 @@
+#go to src and the app and thats where the main chunk of code is
+
 # MyProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
